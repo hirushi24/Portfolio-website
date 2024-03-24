@@ -17,13 +17,13 @@ const EmailSection = () => {
       <div className="z-10 text-center">
         {/* eslint-disable-next-line react/no-unescaped-entities */}
         <h5 className="text-xl font-bold text-white my-2">
-          Let's Connect
+          Let&apos;s Connect
         </h5>
         {/* eslint-disable-next-line react/no-unescaped-entities */}
         <p className="text-[#ADB7BE] mb-4 max-w-md mx-auto">
-          Hello! Thank you for visiting my portfolio. I'm enthusiastic about forging new connections and exploring opportunities for collaboration. As a dedicated student, I'm committed to continuous learning and growth. Your insights and feedback are invaluable to me. Feel free to reach out, and I'll do my utmost to respond promptly.
+          Hello! Thank you for visiting my portfolio. I&apos;m enthusiastic about forging new connections and exploring opportunities for collaboration. As a dedicated student, I&apos;m committed to continuous learning and growth. Your insights and feedback are invaluable to me. Feel free to reach out, and I&apos;ll do my utmost to respond promptly.
           <br /><br />
-          I am passionate about expanding my knowledge and refining my skills in the ever-evolving landscape of technology. Your guidance and suggestions contribute significantly to my journey. Don't hesitate to contact me, and I'll ensure to provide timely and thoughtful responses.
+          I am passionate about expanding my knowledge and refining my skills in the ever-evolving landscape of technology. Your guidance and suggestions contribute significantly to my journey. Don&apos;t hesitate to contact me, and I&apos;ll ensure to provide timely and thoughtful responses.
         </p>
 
         <div className="socials flex justify-center gap-2">
