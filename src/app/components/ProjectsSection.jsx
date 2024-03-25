@@ -8,10 +8,10 @@ const projectsData = [
   {
     id: 1,
     title: "Portfolio Website",
-    description: " Created a versatile academic progression predictor in Python featuring robust user input validation and streamlined conditional statements, further enhanced with data storage capabilities utilizing lists, text file saving, and a dictionary for managing unique student IDs.",
+    description: "This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.",
     image: "/images/projects/1.png",
     tag: ["All", "Front-end"],
-    gitUrl: "https://github.com/hirushi24/Student-Progress-Outcomes.git",
+    gitUrl: "https://github.com/hirushi24/Portfolio-website.git",
   },
   {
     id: 2,

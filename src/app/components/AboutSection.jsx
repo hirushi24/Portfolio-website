@@ -59,7 +59,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg text-justify">
   I am a dedicated second-year Computer Science student with 
   a strong passion for the IT industry, aiming to specialize 
-  in UI/UX Design. Proficient in Figma and Axure, I prioritize 
+  in UI/UX Design. Proficient in Figma, I prioritize 
   attention to detail and excel in collaborative team environments. 
   My expertise extends to front-end development, showcasing strong 
   HTML, CSS, and JavaScript skills. Committed to mastering design 
