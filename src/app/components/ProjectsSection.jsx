@@ -45,7 +45,6 @@ const projectsData = [
     tag: ["All", "Front-end","Back-end"],
     gitUrl: "https://github.com/VehicleRepairo/vehicle-repairo-back-end.git",
     previewUrl: "https://vehicle-repairo-mechanic-cs-69.vercel.app/",
-    
   },
   {
     id: 6,
