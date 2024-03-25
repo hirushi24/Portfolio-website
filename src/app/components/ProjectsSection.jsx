@@ -43,7 +43,8 @@ const projectsData = [
     description: " This is a group project. We made a mobile application and a web application. We used python for the backend and the react native and react.js for the frontend.",
     image: "/images/projects/5.png",
     tag: ["All", "Front-end","Back-end"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/VehicleRepairo/vehicle-repairo-back-end.git",
+    previewUrl: "https://vehicle-repairo-mechanic-cs-69.vercel.app/",
     
   },
   {
