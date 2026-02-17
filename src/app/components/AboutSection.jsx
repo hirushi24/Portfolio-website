@@ -34,7 +34,6 @@ const TAB_DATA = [
         <li>Figma for UX Design - Issues by Linkedin</li>
         <li>Introduction to Web Design and Development - Issues by Linkedin</li>
         <li>Principles for UX Design - Issues by Linkedin</li>
-        <li>Get started with Figma - Issues by Coursera</li>
       </ul>
     ),
   },
@@ -57,14 +56,12 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg text-justify">
-  I am a dedicated second-year Computer Science student with 
-  a strong passion for the IT industry, aiming to specialize 
-  in UI/UX Design. Proficient in Figma, I prioritize 
-  attention to detail and excel in collaborative team environments. 
-  My expertise extends to front-end development, showcasing strong 
-  HTML, CSS, and JavaScript skills. Committed to mastering design 
-  and development, I am poised to contribute effectively to the 
-  creation of innovative and seamless digital experiences.
+ I am a motivated final-year Computer Science student with a strong interest 
+ in the IT industry and modern software solutions. I have hands-on experience 
+ with design tools such as Figma and a solid understanding of web technologies. 
+ I pay close attention to detail and work effectively in collaborative team environments. 
+ Passionate about both design and development, I aim to contribute to creating efficient,
+ user-friendly, and innovative digital systems.
 </p>
 
           <div className="flex flex-row justify-start mt-8">

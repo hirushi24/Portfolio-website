@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="text-center">
           <span style={{ color: "purple", fontWeight: "bold" }}>Hirushi Silva</span>
           <br />
-          <span className="text-slate-600">&copy; 2024 Hirushi Silva. All rights reserved.</span>
+          <span className="text-slate-600">&copy; 2026 Hirushi Silva. All rights reserved.</span>
         </div>
       </div>
     </footer>
