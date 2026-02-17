@@ -40,6 +40,8 @@
 // };
 
 // export default EmailSection;
+
+// src/app/components/EmailSection.jsx
 "use client";
 import React, { useState } from "react";
 import GithubIcon from "../../../public/github-icon.svg";
